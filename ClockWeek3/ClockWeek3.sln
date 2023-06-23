@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockWeek3", "ClockWeek3\ClockWeek3.csproj", "{3E38D967-2F50-46BF-A5A0-96ED113608A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockTest", "ClockTest\ClockTest.csproj", "{9D50DFB1-2247-4C31-A78D-9FFDEE79F242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E38D967-2F50-46BF-A5A0-96ED113608A1}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{3E38D967-2F50-46BF-A5A0-96ED113608A1}.Debug|anycpu.Build.0 = Debug|anycpu
+		{3E38D967-2F50-46BF-A5A0-96ED113608A1}.Release|anycpu.ActiveCfg = Release|anycpu
+		{3E38D967-2F50-46BF-A5A0-96ED113608A1}.Release|anycpu.Build.0 = Release|anycpu
+		{9D50DFB1-2247-4C31-A78D-9FFDEE79F242}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{9D50DFB1-2247-4C31-A78D-9FFDEE79F242}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{9D50DFB1-2247-4C31-A78D-9FFDEE79F242}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{9D50DFB1-2247-4C31-A78D-9FFDEE79F242}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

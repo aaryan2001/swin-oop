@@ -1,0 +1,6 @@
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockWeek3/bin/Debug/ClockWeek3.exe
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockWeek3/bin/Debug/ClockWeek3.pdb
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockWeek3/obj/Debug/ClockWeek3.csprojAssemblyReference.cache
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockWeek3/obj/Debug/ClockWeek3.csproj.CoreCompileInputs.cache
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockWeek3/obj/Debug/ClockWeek3.exe
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockWeek3/obj/Debug/ClockWeek3.pdb

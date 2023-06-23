@@ -1,0 +1,12 @@
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockTest/bin/Debug/ClockTest.dll
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockTest/bin/Debug/ClockTest.pdb
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockTest/bin/Debug/ClockWeek3.exe
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockTest/bin/Debug/nunit.framework.dll
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockTest/bin/Debug/ClockWeek3.pdb
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockTest/bin/Debug/nunit.framework.pdb
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockTest/bin/Debug/nunit.framework.xml
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockTest/obj/Debug/ClockTest.csprojAssemblyReference.cache
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockTest/obj/Debug/ClockTest.csproj.CoreCompileInputs.cache
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockTest/obj/Debug/ClockTest.csproj.CopyComplete
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockTest/obj/Debug/ClockTest.dll
+/Users/ajaykumarpujara/Projects/ClockWeek3/ClockTest/obj/Debug/ClockTest.pdb
