@@ -1,0 +1,9 @@
+/Users/ajaykumarpujara/Desktop/CODE/LAB01/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.csprojAssemblyReference.cache
+/Users/ajaykumarpujara/Desktop/CODE/LAB01/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/ajaykumarpujara/Desktop/CODE/LAB01/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.AssemblyInfo.cs
+/Users/ajaykumarpujara/Desktop/CODE/LAB01/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.deps.json
+/Users/ajaykumarpujara/Desktop/CODE/LAB01/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.dll
+/Users/ajaykumarpujara/Desktop/CODE/LAB01/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.pdb
+/Users/ajaykumarpujara/Desktop/CODE/LAB01/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.dll
+/Users/ajaykumarpujara/Desktop/CODE/LAB01/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.pdb
+/Users/ajaykumarpujara/Desktop/CODE/LAB01/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.csproj.CoreCompileInputs.cache
