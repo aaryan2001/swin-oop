@@ -1,0 +1,2 @@
+/Users/ajaykumarpujara/Projects/DiceRoller/DiceRoller/obj/Debug/DiceRoller.csprojAssemblyReference.cache
+/Users/ajaykumarpujara/Projects/DiceRoller/DiceRoller/obj/Debug/DiceRoller.csproj.CoreCompileInputs.cache
